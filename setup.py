@@ -18,8 +18,6 @@ setup(name = 'desc',
 			install_requires = [
 				'matplotlib>=2.2'
 				'pydot', 
-				'tensorflow==1.7.0',
-				'keras', 
 				'scanpy',
 				'louvain',
 				'python-igraph',  
